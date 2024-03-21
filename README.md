@@ -75,15 +75,19 @@
 
 
 ---
- <!--## Major Project  -->
+ ## Major Project 
+**R@pidHelp**
+
+-   [Live link](https://gauravarbat.github.io/Rapid_Help/)
+-   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
 
 
 
  ## Mini Major Project
 **Amazon Clone**
 
--   [Live link](https://akashdeep023.github.io/Amazon-Clone/)
--   [Github link](https://github.com/akashdeep023/Amazon-Clone) (Publick Complete)
+-   [Live link](https://gauravarbat.github.io/amazon-clone/)
+-   [Github link](https://github.com/GauravArbat/amazon-clone) (Publick Complete)
 
 
 
