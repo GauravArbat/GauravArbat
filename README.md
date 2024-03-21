@@ -1,12 +1,12 @@
-# 👋 Hi, I’m @akashdeep023 (Akash Deep) 
+# 👋 Hi, I’m @GauravArbat (Gaurav Arbat) 
 <p align="center"> 
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  <a style="" href="https://github.com/GauravArbat">
+  <img src="https://profile-counter.glitch.me/GauravArbat/count.svg" />
   </a>
 </p>
-<a style="" href="https://github.com/akashdeep023">
+<a style="" href="https://github.com/GauravArbat">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
