@@ -77,51 +77,51 @@
 ---
 ## Major Project
 
-**Airbnb Project**
+<!-- **Airbnb Project**  -->
 
--   [Live link](https://airbnb-major-project-jack.onrender.com)
--   [Github link](https://github.com/akashdeep023/Airbnb_Project) (Public Complete)
+<!-- -   [Live link](https://airbnb-major-project-jack.onrender.com)  -->
+<!-- -   [Github link](https://github.com/akashdeep023/Airbnb_Project) (Public Complete)  -->
 
-**Food Plaza**
+ <!-- **Food Plaza**  -->
 
--   [Live link](https://food-plaza-jack.onrender.com/) || [Live link](https://food-plaza-jack.netlify.app/)
+ -   [Live link](https://food-plaza-jack.onrender.com/) || [Live link](https://food-plaza-jack.netlify.app/)  -->
 
--   [Github link](https://github.com/akashdeep023/Food_Plaza) (Public Complete)
+-   [Github link](https://github.com/akashdeep023/Food_Plaza) (Public Complete)  -->
 
-**Netflix Gpt**
+<!-- **Netflix Gpt**  -->
 
--   [Live link](https://netflix-gpt-jack.onrender.com/) || [Live link](https://netflix-gpt-jack.netlify.app/) || [Live link](https://netflix-gpt-jack.firebaseapp.com/)
+<!-- -  [Live link](https://netflix-gpt-jack.onrender.com/) || [Live link](https://netflix-gpt-jack.netlify.app/) || [Live link](https://netflix-gpt-jack.firebaseapp.com/)  -->
 
--   [Github link](https://github.com/akashdeep023/Netflix_Gpt) (Public Complete)
+<!-- -   [Github link](https://github.com/akashdeep023/Netflix_Gpt) (Public Complete)
 
-## Mini Major Project
+<!-- ## Mini Major Project
 
-**Weather Widget**
+<!-- **Weather Widget**
 
--   [Live link](https://weather-widget-jack.netlify.app/)
--   [Github link](https://github.com/akashdeep023/Weather_Widget) (Public Complete)
+<!-- -   [Live link](https://weather-widget-jack.netlify.app/)
+<!-- -   [Github link](https://github.com/akashdeep023/Weather_Widget) (Public Complete)
 
-**SimonSay Game Js**
+<!-- **SimonSay Game Js**
 
 -   [Live link](https://akashdeep023.github.io/SimonSay_Game/)
 -   [Github link](https://github.com/akashdeep023/SimonSay_Game) (Public Complete)
 
-**Amazon Clone**
+<!-- **Amazon Clone**
 
 -   [Live link](https://akashdeep023.github.io/Amazon-Clone/)
 -   [Github link](https://github.com/akashdeep023/Amazon-Clone) (Publick Complete)
 
-**Spotify Clone**
+<!-- **Spotify Clone**
 
 -   [Live link](https://akashdeep023.github.io/Spotify-Clone/)
 -   [Github link](https://github.com/akashdeep023/Spotify-Clone) (Public Complete) (Not Responsive)
 
-**WhatApp Chat**
+**WhatApp Chat**  -->
 
 -   [Live link](https://github.com/akashdeep023/)
 -   [Github link]() (Wait for Code)
 
-**ToDo Game Redux**
+  <!--**ToDo Game Redux**
 
 -   [Live link](https://todo-list-jack.netlify.app/)
 -   [Github link](https://github.com/akashdeep023/ToDo-List-Redux) (Publick Complete)
@@ -139,9 +139,9 @@
 **Lottery Game**
 
 -   [Live link](https://lottery-game-jack.netlify.app/)
--   [Github link](https://github.com/akashdeep023/Lottery-Game) (Public Complete)
+-   [Github link](https://github.com/akashdeep023/Lottery-Game) (Public Complete)  -->
 
-## Small Project
+ <!-- ## Small Project
 
 **Css Mini Project**
 
@@ -156,7 +156,7 @@
 **Card Project Js**
 
 -   [Live link](https://akashdeep023.github.io/Card_Project_Js/)
--   [Github link](https://github.com/akashdeep023/Card_Project_Js) (Public Complete)
+-   [Github link](https://github.com/akashdeep023/Card_Project_Js) (Public Complete)  -->
 
 
 ---
