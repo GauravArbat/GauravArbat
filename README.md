@@ -84,7 +84,7 @@
 **Restaurant Management System**
 
 - [live link](http://arbatgaurav.pythonanywhere.com/shop/)
-- [Github link](https://github.com/GauravArbat/Food_Ordering) (Privet Repo) 
+- [Github link](https://github.com/GauravArbat/Food_Ordering) (private Repo) 
 
  ## Mini Major Project
 **Amazon Clone**
@@ -95,7 +95,7 @@
 **My Portfolio**
 
 -   [Live link](https://gauravarbat.netlify.app)
--   [Github link](https://github.com/GauravArbat/Portfolio) (Privet Repo)
+-   [Github link](https://github.com/GauravArbat/Portfolio) (private Repo)
 
 
 
