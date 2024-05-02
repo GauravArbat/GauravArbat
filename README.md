@@ -76,7 +76,7 @@
 
 ---
  ## Major Project 
-**R@pidHelp**
+**Restaurant Management System**
 
 -   [Live link](https://gauravarbat.github.io/Rapid_Help/)
 -   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
