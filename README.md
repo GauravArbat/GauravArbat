@@ -81,7 +81,9 @@
 -   [Live link](https://gauravarbat.github.io/Rapid_Help/)
 -   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
 
-
+**R@pidHelp**
+- [live link](http://arbatgaurav.pythonanywhere.com/shop/)
+- [Github link](https://github.com/GauravArbat/Food_Ordering) (Privet Repo) 
 
  ## Mini Major Project
 **Amazon Clone**
@@ -89,7 +91,10 @@
 -   [Live link](https://gauravarbat.github.io/amazon-clone/)
 -   [Github link](https://github.com/GauravArbat/amazon-clone) (Publick Complete)
 
+**My Portfolio**
 
+-   [Live link](https://gauravarbat.netlify.app)
+-   [Github link]([https://github.com/GauravArbat/amazon-clone](https://github.com/GauravArbat/Portfolio)) (Privet Repo)
 
 
 
