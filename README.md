@@ -94,7 +94,7 @@
 **My Portfolio**
 
 -   [Live link](https://gauravarbat.netlify.app)
--   [Github link]([https://github.com/GauravArbat/amazon-clone](https://github.com/GauravArbat/Portfolio)) (Privet Repo)
+-   [Github link]((https://github.com/GauravArbat/Portfolio)) (Privet Repo)
 
 
 
