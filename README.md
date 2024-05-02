@@ -76,12 +76,13 @@
 
 ---
  ## Major Project 
-**Restaurant Management System**
+**R@pidHelp**
 
 -   [Live link](https://gauravarbat.github.io/Rapid_Help/)
 -   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
 
-**R@pidHelp**
+**Restaurant Management System**
+
 - [live link](http://arbatgaurav.pythonanywhere.com/shop/)
 - [Github link](https://github.com/GauravArbat/Food_Ordering) (Privet Repo) 
 
