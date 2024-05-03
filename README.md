@@ -83,7 +83,7 @@
 
 **Restaurant Management System**
 
-- [live link](http://arbatgaurav.pythonanywhere.com/shop/)
+- [live link](http://arbatgaurav.pythonanywhere.com)
 - [Github link](https://github.com/GauravArbat/Food_Ordering) (private Repo) 
 
  ## Mini Major Project
