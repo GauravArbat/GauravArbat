@@ -76,10 +76,10 @@
 
 ---
  ## Major Project 
-**R@pidHelp**
+**Chat-Now**
 
--   [Live link](https://gauravarbat.github.io/Rapid_Help/)
--   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
+-   [Live link](https://mobile-responsive-chat-app.vercel.app/)
+-   [Github link](https://github.com/GauravArbat/chst-app) (private Repo)
 
 **Restaurant Management System**
 
@@ -87,6 +87,11 @@
 - [Github link](https://github.com/GauravArbat/Food_Ordering) (private Repo) 
 
  ## Mini Major Project
+ **R@pidHelp**
+
+-   [Live link](https://gauravarbat.github.io/Rapid_Help/)
+-   [Github link](https://github.com/GauravArbat/Rapid_Help) (Publick Complete)
+
 **Amazon Clone**
 
 -   [Live link](https://gauravarbat.github.io/amazon-clone/)
