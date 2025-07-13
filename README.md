@@ -1,10 +1,13 @@
 # 👋 Hi, I’m @GauravArbat (Gaurav Arbat) 
 <p align="center"> 
-  <b style="color: blue;  ">Visitor count</b>
+  <b style="color: blue;">Visitor count</b><br>
+
+  <img src="https://img.shields.io/badge/Visitors-3000%2B-blue?style=flat" alt="Visitor Count" />
   <br>
-  <a style="" href="https://github.com/GauravArbat">
-  <img src="https://profile-counter.glitch.me/GauravArbat/count.svg" />
-  </a>
+ 
+  <img src="https://komarev.com/ghpvc/?username=GauravArbat&label=Profile%20views&color=0e75b6&style=flat" alt="GauravArbat" />
+  <br>
+  <small>Note: Real-time counter reset – original count started at 3000+</small>
 </p>
 <a style="" href="https://github.com/GauravArbat">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
