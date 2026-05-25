@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @GauravArbat (Gaurav Arbat) 
-<p align="center"> 
+<!-- <p align="center"> 
   <b style="color: blue;">Visitor count</b><br>
 
   <img src="https://img.shields.io/badge/Visitors-3000%2B-blue?style=flat" alt="Visitor Count" />
@@ -8,6 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=GauravArbat&label=Profile%20views&color=0e75b6&style=flat" alt="GauravArbat" />
   <br>
   <small>Note: Real-time counter reset – original count started at 3000+</small>
+</p> -->
+<p align="center">
+    <b style="color: blue;  ">Visitor count</b>
+    <br>
+    <a style="" href="https://page-visitor.vercel.app/">
+        <img src="https://page-visitor.vercel.app/GauravArbat/count.svg?boxColor=%23113144&textColor=%232badff&fontSize=20" />
+    </a>
+  <br>
+    <span style="color blue;">Made by  
+      <a style="" href="https://github.com/GauravArbat">
+         <b>me</b>
+      </a> 
+    </span>
 </p>
 <a style="" href="https://github.com/GauravArbat">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
@@ -34,7 +47,11 @@
 <a style="" href="https://github.com/GauravArbat">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=GauravArbat&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
+<<<<<<< HEAD
 <a style="" href="https://github.com/akashdeep023">
+=======
+<a style="" href="https://github.com/GauravArbat">
+>>>>>>> 03b5674 (Update visitor count section in README)
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravArbat&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
