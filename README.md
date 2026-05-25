@@ -47,11 +47,10 @@
 <a style="" href="https://github.com/GauravArbat">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=GauravArbat&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<<<<<<< HEAD
+
 <a style="" href="https://github.com/akashdeep023">
-=======
+
 <a style="" href="https://github.com/GauravArbat">
->>>>>>> 03b5674 (Update visitor count section in README)
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravArbat&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
